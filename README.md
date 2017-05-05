@@ -1,2 +1,0 @@
-# hypergiant
-Hypergiant page
