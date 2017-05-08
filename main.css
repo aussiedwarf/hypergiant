@@ -9,6 +9,7 @@ body {
   height: auto;
   margin: 0 auto;
   
+  position: relative;
   display: table-cell;
   vertical-align: middle;
   //width: 100vw;
